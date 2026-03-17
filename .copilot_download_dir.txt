@@ -1,0 +1,4 @@
+DOWNLOAD_DIR=C:\Users\srira\OneDrive\Desktop\Sachiin
+CREATED_BY=GitHub Copilot CLI
+CREATED_AT=2026-01-05T18:15:50.689Z
+NOTE=Use this folder for saving upcoming browsing/downloaded files.

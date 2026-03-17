@@ -1,0 +1,20 @@
+{
+  "name": "@transit/driver-app",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "firebase": "^9.22.1",
+    "leaflet": "^1.9.4",
+    "next": "13.4.12",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-leaflet": "^4.2.1",
+    "react-qr-code": "^2.0.18",
+    "react-qr-scanner": "^1.0.0-alpha.11"
+  }
+}

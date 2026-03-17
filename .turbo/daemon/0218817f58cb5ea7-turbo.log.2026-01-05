@@ -1,0 +1,107 @@
+2026-01-05T19:42:24.252501Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie")}
+2026-01-05T19:42:24.253561Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2026-01-05T19:42:24.276905Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2026-01-05T19:42:24.356455Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.turbo\\turbo-dev.log"), AnchoredSystemPathBuf("apps\\student\\.turbo"), AnchoredSystemPathBuf(".turbo\\cookies\\2.cookie"), AnchoredSystemPathBuf(".turbo\\cookies\\3.cookie"), AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie"), AnchoredSystemPathBuf(".turbo"), AnchoredSystemPathBuf(".turbo\\cookies\\.turbo-cookie"), AnchoredSystemPathBuf("apps\\driver\\.turbo"), AnchoredSystemPathBuf("apps\\student"), AnchoredSystemPathBuf("apps\\student\\.turbo\\turbo-dev.log"), AnchoredSystemPathBuf(".turbo\\cookies"), AnchoredSystemPathBuf("apps\\driver")}
+2026-01-05T19:42:24.356507Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:42:24.854314Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\0218817f58cb5ea7-turbo.log.2026-01-05")}
+2026-01-05T19:42:24.854374Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2026-01-05T19:42:25.561202Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("node_modules")}
+2026-01-05T19:42:25.561236Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2026-01-05T19:42:31.552631Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver"), AnchoredSystemPathBuf("apps\\driver\\.next")}
+2026-01-05T19:42:31.552722Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:42:31.597475Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:42:31.650239Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\student\\.next")}
+2026-01-05T19:42:31.650288Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }}))
+2026-01-05T19:42:31.665695Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:42:32.446577Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\student\\.next")}
+2026-01-05T19:42:32.446623Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }}))
+2026-01-05T19:42:32.505179Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:42:32.651334Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.next")}
+2026-01-05T19:42:32.651372Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:42:32.730088Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:42:32.747975Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\student\\.next")}
+2026-01-05T19:42:32.748021Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }}))
+2026-01-05T19:42:32.748082Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:42:32.847143Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.next")}
+2026-01-05T19:42:32.847193Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:42:32.865114Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:42:34.748452Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.next")}
+2026-01-05T19:42:34.748490Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:42:34.805055Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:43:03.350179Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\0218817f58cb5ea7-turbo.log.2026-01-05")}
+2026-01-05T19:43:03.350222Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2026-01-05T19:43:03.456534Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\0218817f58cb5ea7-turbo.log.2026-01-05")}
+2026-01-05T19:43:03.456573Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2026-01-05T19:43:16.662452Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\desktop.ini"), AnchoredSystemPathBuf(".turbo")}
+2026-01-05T19:43:16.662490Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2026-01-05T19:43:16.750058Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.turbo\\desktop.ini"), AnchoredSystemPathBuf(".turbo\\daemon"), AnchoredSystemPathBuf(".turbo\\cookies"), AnchoredSystemPathBuf(".turbo\\cookies\\desktop.ini"), AnchoredSystemPathBuf(".turbo\\daemon\\desktop.ini"), AnchoredSystemPathBuf("apps\\driver\\.turbo")}
+2026-01-05T19:43:16.750123Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }, WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:43:16.822695Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:43:16.846039Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\student\\.turbo\\desktop.ini"), AnchoredSystemPathBuf("apps\\student\\.turbo"), AnchoredSystemPathBuf("apps\\driver\\.turbo"), AnchoredSystemPathBuf("apps\\driver\\.turbo\\desktop.ini")}
+2026-01-05T19:43:16.846081Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }, WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:43:16.846206Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:43:16.846348Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:43:32.553064Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.next")}
+2026-01-05T19:43:32.553108Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:43:32.553172Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:44:39.450932Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\next.config.js")}
+2026-01-05T19:44:39.450988Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:44:39.859119Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\student\\next.config.js")}
+2026-01-05T19:44:39.859155Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }}))
+2026-01-05T19:44:45.450341Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.next")}
+2026-01-05T19:44:45.450389Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:44:45.450460Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:44:45.652592Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\student\\.next")}
+2026-01-05T19:44:45.652642Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }}))
+2026-01-05T19:44:45.652712Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:44:46.346500Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.next")}
+2026-01-05T19:44:46.346548Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:44:46.424624Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:44:46.555671Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\student\\.next")}
+2026-01-05T19:44:46.555774Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }}))
+2026-01-05T19:44:46.555849Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:44:46.646865Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.next")}
+2026-01-05T19:44:46.646908Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:44:46.647038Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:44:46.754965Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\student\\.next")}
+2026-01-05T19:44:46.755011Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }}))
+2026-01-05T19:44:46.768031Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:45:11.174975Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie")}
+2026-01-05T19:45:11.175053Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2026-01-05T19:45:11.253672Z  WARN daemon_server: turborepo_lib::commands::daemon: daemon already running
+2026-01-05T19:45:11.273343Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.turbo\\turbo-dev.log"), AnchoredSystemPathBuf(".turbo\\cookies"), AnchoredSystemPathBuf(".turbo\\cookies\\3.cookie"), AnchoredSystemPathBuf(".turbo\\cookies\\2.cookie"), AnchoredSystemPathBuf(".turbo\\cookies\\1.cookie")}
+2026-01-05T19:45:11.273391Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }, WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2026-01-05T19:45:11.368716Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\student\\.turbo\\turbo-dev.log")}
+2026-01-05T19:45:11.368793Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }}))
+2026-01-05T19:45:11.872630Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\0218817f58cb5ea7-turbo.log.2026-01-05")}
+2026-01-05T19:45:11.872667Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2026-01-05T19:45:18.265369Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\student\\.next")}
+2026-01-05T19:45:18.265480Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }}))
+2026-01-05T19:45:18.265561Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:45:18.368193Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.next")}
+2026-01-05T19:45:18.368239Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:45:18.368305Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:45:18.971860Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\student\\.next")}
+2026-01-05T19:45:18.971905Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }}))
+2026-01-05T19:45:19.015522Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:45:19.168745Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.next"), AnchoredSystemPathBuf("apps\\student\\.next")}
+2026-01-05T19:45:19.168801Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }, WorkspacePackage { name: Other("@transit/student-app"), path: AnchoredSystemPathBuf("apps\\student") }}))
+2026-01-05T19:45:19.183599Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:45:19.183679Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:45:19.267133Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.next")}
+2026-01-05T19:45:19.267226Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:45:19.281083Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:45:37.072068Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\0218817f58cb5ea7-turbo.log.2026-01-05")}
+2026-01-05T19:45:37.072120Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2026-01-05T19:47:53.371893Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\0218817f58cb5ea7-turbo.log.2026-01-05")}
+2026-01-05T19:47:53.371947Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2026-01-05T19:48:09.467603Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\cookies")}
+2026-01-05T19:48:09.467639Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2026-01-05T19:48:24.386184Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.next")}
+2026-01-05T19:48:24.386287Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:48:24.465389Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:48:25.052406Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps\\driver\\.next")}
+2026-01-05T19:48:25.052433Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@transit/driver-app"), path: AnchoredSystemPathBuf("apps\\driver") }}))
+2026-01-05T19:48:25.243749Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2026-01-05T19:48:52.272035Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo\\daemon\\0218817f58cb5ea7-turbo.log.2026-01-05")}
+2026-01-05T19:48:52.272070Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
